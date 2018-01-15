@@ -4,5 +4,8 @@
 #### h4
 ##### h5
 ###### h6
-{(# n  times): n=Hn }
+
+**bold**
+*italic*
+[link to Google!](http://google.com)
 
